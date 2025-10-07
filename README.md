@@ -1,4 +1,4 @@
-# OxyHotels User App
+# Booking Buddy User App
 
 The **OxyHotels User App** is a mobile application designed to provide an easy and seamless hotel booking experience for users. The app allows users to browse through a wide variety of hotels listed on the platform, view detailed information about each property, and make bookings directly from their smartphones.
 
@@ -26,14 +26,17 @@ Built with **Kotlin**, **Jetpack Compose**, and **Room**, the app is designed to
 - **Manage Your Bookings**: View and manage your current and past bookings directly from the app.
 - **Secure Sign-In**: Log in with your credentials to manage your profile and bookings.
 
-## Play Store Link
+##Images
+<img width="303" height="648" alt="Screenshot 2025-10-07 at 6 08 10 PM" src="https://github.com/user-attachments/assets/6a1737af-d7a7-4017-8085-55481d5a2900" />
+<img width="305" height="648" alt="Screenshot 2025-10-07 at 6 08 21 PM" src="https://github.com/user-attachments/assets/ee5ef44c-6478-4b28-bf21-9597d098c7c5" />
+<img width="304" height="644" alt="Screenshot 2025-10-07 at 6 08 31 PM" src="https://github.com/user-attachments/assets/b156c5b2-c569-45e4-b550-ef42657bcc93" />
+<img width="299" height="644" alt="Screenshot 2025-10-07 at 6 08 47 PM" src="https://github.com/user-attachments/assets/9b4947ca-c4ab-4216-9289-9a5c623eb9a4" />
 
-You can download the app from the Google Play Store here:
-
-[OxyHotels User App - Play Store](https://play.google.com/store/apps/details?id=com.oxyhotel)
 
 ## Future Enhancements
 
 - **Push Notifications**: Get notified about booking confirmations, reminders, and offers.
 - **Multi-Language Support**: To cater to users from different regions.
 - **Advanced Filters**: More filtering options for better hotel searches.
+
+- MADE BY - AARIN RAJ❤️
